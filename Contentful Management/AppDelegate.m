@@ -7,15 +7,54 @@
 //
 
 #import "AppDelegate.h"
+#import "LoginViewController.h"
+#import "ViewController.h"
+#import "Parser.h"
 
 @interface AppDelegate ()
 
 @end
 
 @implementation AppDelegate
-
+@synthesize listArray;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    NSString *path = [[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:@"Office.xml"];
+    NSData *data = [[NSData alloc]initWithContentsOfFile:path];
+    NSXMLParser *xmlParser = [[NSXMLParser alloc]initWithData:data];
+    
+    Parser *theParser = [[Parser alloc]initParser];
+    
+    [xmlParser setDelegate:theParser];
+    
+    BOOL worked = [xmlParser parse];
+    
+    if (worked){
+        NSLog(@"Amount %lu", [listArray count]);
+    }
+    else {
+        NSLog(@"Boo!");
+    }
+    
+    
+    
+//    UINavigationController* mainVC = [[UINavigationController alloc]
+//                                              initWithRootViewController:[ViewController new]];
+//    mainVC.tabBarItem.title = NSLocalizedString(@"Home", nil);
+//    
+//    UITabBarController* tabBarController = [UITabBarController new];
+//    tabBarController.viewControllers = @[ mainVC ];
+//    
+//    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+//    self.window.backgroundColor = [UIColor whiteColor];
+//    self.window.rootViewController = tabBarController;
+//    [self.window makeKeyAndVisible];
+////    if (![LoginViewController oauthToken]) {
+//        LoginViewController* loginVC = [LoginViewController new];
+//        [self.window.rootViewController presentViewController:loginVC animated:NO completion:nil];
+////    }
+
     // Override point for customization after application launch.
     return YES;
 }

@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+#import "List.h"
 
 @interface ViewController : UIViewController
-
-
+@property (nonatomic, retain) AppDelegate *app;
+@property (nonatomic, retain) List  *theList;
 @end
-

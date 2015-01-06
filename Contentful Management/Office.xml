@@ -1,0 +1,821 @@
+<?xml version="1.0"?>
+<ArrayOfOffice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Office>
+    <Id>401</Id>
+    <UniqueId>7099535b-521f-4bcc-98c7-c604747d7dd9</UniqueId>
+    <CountryId>26</CountryId>
+    <LocationName>Dubai</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Level 2</Address2>
+    <Address3>Gate Village Building No. 8</Address3>
+    <Address4>Dubai International Financial Centre</Address4>
+    <Address5>Dubai</Address5>
+    <Address6>PO Box 506678</Address6>
+    <TelephoneNumber>+971 4 426 7100</TelephoneNumber>
+    <FaxNumber>+971 4 426 7199</FaxNumber>
+    <ContactEmailAddress>allenoverydubai@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Dubai.jpg</Photo>
+    <TermStoreId>c4c9b0fe-ad55-11e0-a724-1ee84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>410</Id>
+    <UniqueId>7a29eba1-c612-418b-9f76-326fdb4281e5</UniqueId>
+    <CountryId>26</CountryId>
+    <LocationName>Abu Dhabi</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>5th Floor</Address2>
+    <Address3>Al Mamoura Building B</Address3>
+    <Address4>Muroor Road</Address4>
+    <Address5>Abu Dhabi</Address5>
+    <Address6>P.O. Box 7907</Address6>
+    <TelephoneNumber>+971 2 418 0400</TelephoneNumber>
+    <FaxNumber>+971 2 418 0499</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_AbuDhabi.jpg</Photo>
+    <TermStoreId>c8a72ddc-ad55-11e0-b4f3-26e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>419</Id>
+    <UniqueId>7b2b02ba-3430-4966-aa60-2faa97f409e1</UniqueId>
+    <CountryId>1</CountryId>
+    <LocationName>Sydney</LocationName>
+    <Address1>Allen &amp; Overy</Address1>
+    <Address2>Level 25</Address2>
+    <Address3>85 Castlereagh Street</Address3>
+    <Address4>Sydney</Address4>
+    <Address5>NSW 2000</Address5>
+    <TelephoneNumber>+61 2 9373 7700</TelephoneNumber>
+    <FaxNumber>+61 2 9373 7710</FaxNumber>
+    <ContactEmailAddress>australia@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Sydney.jpg</Photo>
+    <TermStoreId>cd3aa4dc-ad55-11e0-bca1-27e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>428</Id>
+    <UniqueId>23863dbe-c092-4cc4-b581-0b99c8cec15b</UniqueId>
+    <CountryId>1</CountryId>
+    <LocationName>Perth</LocationName>
+    <Address1>Allen &amp; Overy</Address1>
+    <Address2>Level 27</Address2>
+    <Address3>Exchange Plaza</Address3>
+    <Address4>2 The Esplanade</Address4>
+    <Address5>Perth</Address5>
+    <Address6>WA 6000</Address6>
+    <TelephoneNumber>+61 8 6315 5900</TelephoneNumber>
+    <FaxNumber />
+    <ContactEmailAddress>australia@allenovery.com</ContactEmailAddress>
+    <Text />
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Perth.jpg</Photo>
+    <TermStoreId>d0f31d20-ad55-11e0-8dc8-28e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>437</Id>
+    <UniqueId>61edc919-aa22-4537-896a-bb44ae121dd2</UniqueId>
+    <CountryId>2</CountryId>
+    <LocationName>Antwerp</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Uitbreidingstraat 80</Address2>
+    <Address3>Antwerp</Address3>
+    <Address4>B-2600</Address4>
+    <TelephoneNumber>+32 3 287 7222</TelephoneNumber>
+    <FaxNumber>+32 3 287 7244</FaxNumber>
+    <ContactEmailAddress>info.belgium@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations </Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Antwerp.jpg</Photo>
+    <TermStoreId>d50b25a6-ad55-11e0-b743-2ee84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>446</Id>
+    <UniqueId>c151d29d-dd0a-4867-b1f6-9657babab611</UniqueId>
+    <CountryId>2</CountryId>
+    <LocationName>Brussels</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Tervurenlaan 268A avenue de Tervueren</Address2>
+    <Address3>Brussels</Address3>
+    <Address4>B-1150</Address4>
+    <TelephoneNumber>+32 2 780 2222</TelephoneNumber>
+    <FaxNumber>+32 3 287 7244</FaxNumber>
+    <ContactEmailAddress>info.belgium@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Brussels.jpg</Photo>
+    <TermStoreId>d9cbe404-ad55-11e0-8cd3-2fe84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>464</Id>
+    <UniqueId>c1056b98-0c24-4220-9389-70cee77f5f1f</UniqueId>
+    <CountryId>4</CountryId>
+    <LocationName>Beijing</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>46th Floor China World Tower</Address2>
+    <Address3>No. 1 Jian Guo Men Wai Avenue</Address3>
+    <Address4>Beijing</Address4>
+    <Address5>100004</Address5>
+    <TelephoneNumber>+86 10 6535 4188</TelephoneNumber>
+    <FaxNumber>+86 10 6535 4199</FaxNumber>
+    <ContactEmailAddress>BJ_Enquiries@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Beijing.jpg</Photo>
+    <TermStoreId>e27d6898-ad55-11e0-978d-31e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>473</Id>
+    <UniqueId>c62118d2-e91a-4581-9d4a-b3ab21ec1f26</UniqueId>
+    <CountryId>4</CountryId>
+    <LocationName>Shanghai</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Shanghai office</Address2>
+    <Address3>15F, Phase II, Shanghai IFC</Address3>
+    <Address4>8 Century Avenue</Address4>
+    <Address5>Pudong</Address5>
+    <Address6>Shanghai</Address6>
+    <TelephoneNumber>+86 21 2036 7000</TelephoneNumber>
+    <FaxNumber>+86 21 2036 7100</FaxNumber>
+    <ContactEmailAddress>BJ_Enquiries@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Shanghai.jpg</Photo>
+    <TermStoreId>e6812632-ad55-11e0-b5c5-44e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>482</Id>
+    <UniqueId>e4e753cd-4ad1-4d8c-a5bf-f37b4788847b</UniqueId>
+    <CountryId>5</CountryId>
+    <LocationName>Prague</LocationName>
+    <Address1>Allen &amp; Overy (Czech Republic) LLP, organizační složka</Address1>
+    <Address2>V Celnici 4</Address2>
+    <Address3>Prague</Address3>
+    <Address4>11000</Address4>
+    <TelephoneNumber>+420 222 107 111</TelephoneNumber>
+    <FaxNumber>+420 222 107 107</FaxNumber>
+    <ContactEmailAddress>receptip@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Prague.jpg</Photo>
+    <TermStoreId>e9dbcf62-ad55-11e0-b2bf-48e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>491</Id>
+    <UniqueId>257ec45d-8d8d-4876-9b4a-6ad8d4828a3e</UniqueId>
+    <CountryId>7</CountryId>
+    <LocationName>Frankfurt am Main</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Bockenheimer Landstraße 2</Address2>
+    <Address3>60306 Frankfurt am Main</Address3>
+    <TelephoneNumber>+49 69 2648 5000</TelephoneNumber>
+    <FaxNumber>+49 69 2648 5800</FaxNumber>
+    <ContactEmailAddress>GermanyMarketing@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_FrankfurtamMain.jpg</Photo>
+    <TermStoreId>ee9e0aa6-ad55-11e0-bc17-49e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>500</Id>
+    <UniqueId>93cd49ad-68b9-4686-9fd0-2b4ff94dcc3b</UniqueId>
+    <CountryId>7</CountryId>
+    <LocationName>Hamburg</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Kehrwieder 12</Address2>
+    <Address3>20457 Hamburg</Address3>
+    <TelephoneNumber>+49 40 82 221 20</TelephoneNumber>
+    <FaxNumber>+49 40 82 221 2200</FaxNumber>
+    <ContactEmailAddress>GermanyMarketing@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Hamburg.jpg</Photo>
+    <TermStoreId>f1f65d34-ad55-11e0-a57c-4ae84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>509</Id>
+    <UniqueId>66f6a0fa-864d-4fcf-8422-8c06f6177e4e</UniqueId>
+    <CountryId>7</CountryId>
+    <LocationName>Mannheim</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Am Victoria-Turm 2</Address2>
+    <Address3>68163 Mannheim</Address3>
+    <TelephoneNumber>+49 621 3285 6300</TelephoneNumber>
+    <FaxNumber>+49 621 3285 6400</FaxNumber>
+    <ContactEmailAddress>GermanyMarketing@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Mannheim.jpg</Photo>
+    <TermStoreId>f59ea23e-ad55-11e0-bd4e-4be84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>518</Id>
+    <UniqueId>d7b9e75f-bf07-4034-854a-066e7c95b9d3</UniqueId>
+    <CountryId>7</CountryId>
+    <LocationName>Duesseldorf</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Breite Straße 27</Address2>
+    <Address3>40213 Duesseldorf</Address3>
+    <TelephoneNumber>+49 211 2806 7000</TelephoneNumber>
+    <FaxNumber>+49 211 2806 7800</FaxNumber>
+    <ContactEmailAddress>GermanyMarketing@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Duesseldorf.jpg</Photo>
+    <TermStoreId>f91579f6-ad55-11e0-b82c-4fe84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>527</Id>
+    <UniqueId>c82a81cd-dfa4-41cd-bfca-22df650e802b</UniqueId>
+    <CountryId>7</CountryId>
+    <LocationName>Munich</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Maximilianstraße 35</Address2>
+    <Address3>80539 Munich</Address3>
+    <TelephoneNumber>+49 89 71043 3000</TelephoneNumber>
+    <FaxNumber>+49 89 71043 3800</FaxNumber>
+    <ContactEmailAddress>GermanyMarketing@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Munich.jpg</Photo>
+    <TermStoreId>fd48df2c-ad55-11e0-801e-50e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>536</Id>
+    <UniqueId>65f0d427-b2bb-4f59-b58a-4b8182e67cc4</UniqueId>
+    <CountryId>24</CountryId>
+    <LocationName>Madrid</LocationName>
+    <Address1>Allen &amp; Overy</Address1>
+    <Address2>Calle Pedro de Valdivia 10</Address2>
+    <Address3>4th floor 28006</Address3>
+    <Address4>Madrid</Address4>
+    <TelephoneNumber>+34 91 782 98 00</TelephoneNumber>
+    <FaxNumber>+34 91 782 98 99</FaxNumber>
+    <ContactEmailAddress>info@madrid.allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Madrid.jpg</Photo>
+    <TermStoreId>00952ab4-ad56-11e0-b721-51e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>545</Id>
+    <UniqueId>d50d5995-9377-4fb9-936c-e1e199455ed3</UniqueId>
+    <CountryId>6</CountryId>
+    <LocationName>Paris</LocationName>
+    <Address1>&lt;p&gt;Allen &amp; Overy LLP</Address1>
+    <Address2>52 avenue Hoche</Address2>
+    <Address3>75008 Paris&lt;/p&gt;</Address3>
+    <TelephoneNumber>+33 1 40 06 54 00</TelephoneNumber>
+    <FaxNumber>+33 1 40 06 54 54</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Paris.jpg</Photo>
+    <TermStoreId>03c93b26-ad56-11e0-98bd-57e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>554</Id>
+    <UniqueId>d2fdf3b9-2b17-466b-8799-a699bbfd14c7</UniqueId>
+    <CountryId>27</CountryId>
+    <LocationName>London</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>One Bishops Square</Address2>
+    <Address3>London</Address3>
+    <Address4>E1 6AD</Address4>
+    <TelephoneNumber>+44 20 3088 0000</TelephoneNumber>
+    <FaxNumber>+44 20 3088 0088</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_London.jpg</Photo>
+    <TermStoreId>0e2a6842-ad56-11e0-ae53-72e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>563</Id>
+    <UniqueId>164e3492-5527-4d70-ade5-d52faeb0c986</UniqueId>
+    <CountryId>8</CountryId>
+    <LocationName>Athens</LocationName>
+    <Address1>Allen &amp; Overy (Greece) LLP</Address1>
+    <Address2>2 Navarchou Nikodimou</Address2>
+    <Address3>Athens</Address3>
+    <Address4>10557</Address4>
+    <TelephoneNumber>+30 21 0325 6030</TelephoneNumber>
+    <FaxNumber>+30 21 0325 6036</FaxNumber>
+    <ContactEmailAddress>Vana.Kotsiomanti@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId>2f24227c-ad56-11e0-9cb5-ece84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>572</Id>
+    <UniqueId>473e0e03-1fd0-4255-8903-b0978e752be7</UniqueId>
+    <CountryId>4</CountryId>
+    <LocationName>Hong Kong</LocationName>
+    <Address1>Allen &amp; Overy</Address1>
+    <Address2>9th Floor</Address2>
+    <Address3>Three Exchange Square</Address3>
+    <Address4>Central</Address4>
+    <Address5>Hong Kong</Address5>
+    <TelephoneNumber>+852 2974 7000</TelephoneNumber>
+    <FaxNumber>+852 2974 6999</FaxNumber>
+    <ContactEmailAddress>HK_enquiries@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_HongKong.jpg</Photo>
+    <TermStoreId>33543328-ad56-11e0-8752-f0e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>581</Id>
+    <UniqueId>201ed4be-2572-4d7a-aa61-d20a43fc33d7</UniqueId>
+    <CountryId>9</CountryId>
+    <LocationName>Budapest</LocationName>
+    <Address1>Morley Allen &amp; Overy Iroda</Address1>
+    <Address2>Madách Trade Center</Address2>
+    <Address3>Madách Imre út 13-14</Address3>
+    <Address4>Budapest</Address4>
+    <Address5>H-1075</Address5>
+    <TelephoneNumber>+36 1 483 2200</TelephoneNumber>
+    <FaxNumber>+36 1 268 1515</FaxNumber>
+    <ContactEmailAddress>marketing_budapest@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Budapest.jpg</Photo>
+    <TermStoreId>38e0fbb4-ad56-11e0-8e94-fae84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>590</Id>
+    <UniqueId>e99c3ee2-4081-4ee8-9db5-024c88e04408</UniqueId>
+    <CountryId>11</CountryId>
+    <LocationName>Jakarta</LocationName>
+    <Address1>Ginting &amp; Reksodiputro in association with Allen &amp; Overy LLP</Address1>
+    <Address2>The Energy Building, 15th Floor</Address2>
+    <Address3>Sudirman Central Business District</Address3>
+    <Address4>Jl Jend Sudirman Kav 52-53</Address4>
+    <Address5>Jakarta</Address5>
+    <Address6>12190</Address6>
+    <TelephoneNumber>+62 21 2995 1700</TelephoneNumber>
+    <FaxNumber>+62 21 2995 1799</FaxNumber>
+    <ContactEmailAddress>indonesia@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Jakarta.jpg</Photo>
+    <TermStoreId>3eba58aa-ad56-11e0-be2d-fee84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>635</Id>
+    <UniqueId>01b7d253-064d-491d-80a1-55645f7679ac</UniqueId>
+    <CountryId>12</CountryId>
+    <LocationName>Milan</LocationName>
+    <Address1>Allen &amp; Overy Studio Legale Associato</Address1>
+    <Address2>Via Manzoni 41</Address2>
+    <Address3>Milan</Address3>
+    <Address4>20121</Address4>
+    <TelephoneNumber>+39 02 290 491</TelephoneNumber>
+    <FaxNumber>+39 02 290 49333</FaxNumber>
+    <ContactEmailAddress>info.practice.italy@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Milan.jpg</Photo>
+    <TermStoreId>558ed0e2-ad56-11e0-8f9e-33e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>653</Id>
+    <UniqueId>23e2326f-080f-4810-b90e-86eb632ca1ce</UniqueId>
+    <CountryId>12</CountryId>
+    <LocationName>Rome</LocationName>
+    <Address1>Allen &amp; Overy Studio Legale Associato</Address1>
+    <Address2>Corso Vittorio Emanuele II 284</Address2>
+    <Address3>Rome</Address3>
+    <Address4>00186</Address4>
+    <TelephoneNumber>+39 06 684 271</TelephoneNumber>
+    <FaxNumber>+39 06 684 27333</FaxNumber>
+    <ContactEmailAddress>info.practice.italy@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Rome.jpg</Photo>
+    <TermStoreId>5c746ba6-ad56-11e0-9fdd-35e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>662</Id>
+    <UniqueId>aa83374a-84e5-4571-84cf-0f91fbc32636</UniqueId>
+    <CountryId>13</CountryId>
+    <LocationName>Tokyo</LocationName>
+    <Address1>Allen &amp; Overy Gaikokuho Kyodo Jigyo Horitsu Jimusho</Address1>
+    <Address2>38F Roppongi Hills Mori Tower</Address2>
+    <Address3>6-10-1 Roppongi, Minato-ku</Address3>
+    <Address4>Tokyo</Address4>
+    <Address5>106-6138</Address5>
+    <TelephoneNumber>03 6438 5200</TelephoneNumber>
+    <FaxNumber>+81 3 6438 5100</FaxNumber>
+    <ContactEmailAddress>Information@AllenOvery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Tokyo.jpg</Photo>
+    <TermStoreId>5f6383ba-ad56-11e0-9b53-45e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>671</Id>
+    <UniqueId>c0ec166a-cc91-4a32-b1b6-c5cb734a193f</UniqueId>
+    <CountryId>14</CountryId>
+    <LocationName>Luxembourg</LocationName>
+    <Address1>Allen &amp; Overy</Address1>
+    <Address2>33 avenue J.F. Kennedy</Address2>
+    <Address3>L-1855</Address3>
+    <Address4>Luxembourg</Address4>
+    <Address5>PO Box 5017, L-1050</Address5>
+    <TelephoneNumber>+352 44 44 55 1</TelephoneNumber>
+    <FaxNumber>+352 44 44 55 222</FaxNumber>
+    <ContactEmailAddress>InfoLuxembourg@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Luxembourg.jpg</Photo>
+    <TermStoreId>632aa708-ad56-11e0-a0b5-4fe94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>680</Id>
+    <UniqueId>3f5c5364-9550-4dc6-9ee7-4dc2d59527b1</UniqueId>
+    <CountryId>15</CountryId>
+    <LocationName>Casablanca</LocationName>
+    <Address1>Anfaplace, Centre d’Affaires, Immeuble A,</Address1>
+    <Address2>Boulevard de la Corniche</Address2>
+    <Address3>Casablanca</Address3>
+    <Address4>20180</Address4>
+    <TelephoneNumber>+212 520 478 000</TelephoneNumber>
+    <FaxNumber>+212 520 478 100</FaxNumber>
+    <ContactEmailAddress>info.casablanca@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId>b5293537-6c2e-41b6-84cb-e27a565fee93</TermStoreId>
+  </Office>
+  <Office>
+    <Id>681</Id>
+    <UniqueId>3f170f0f-671e-4bd1-81de-3a4dc7c4f396</UniqueId>
+    <CountryId>27</CountryId>
+    <LocationName>Belfast</LocationName>
+    <Address1>Allen &amp; Overy (SSF) Ltd</Address1>
+    <Address2>68 Donegall Quay</Address2>
+    <Address3>Belfast</Address3>
+    <Address4>BT1 3NL</Address4>
+    <TelephoneNumber>+44 2890 607500</TelephoneNumber>
+    <FaxNumber />
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Belfast.jpg</Photo>
+    <TermStoreId>9025a6c2-ad56-11e0-8ffb-7ee94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>682</Id>
+    <UniqueId>c459e0f6-5396-4d74-98bd-b2861dcab7cd</UniqueId>
+    <CountryId>16</CountryId>
+    <LocationName>Amsterdam</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>Apollolaan 15</Address2>
+    <Address3>1077 AB Amsterdam</Address3>
+    <Address4>PO Box 75440</Address4>
+    <Address5>Amsterdam</Address5>
+    <Address6>1070 AK</Address6>
+    <TelephoneNumber>+31 20 674 1000</TelephoneNumber>
+    <FaxNumber>+31 20 674 1111</FaxNumber>
+    <ContactEmailAddress>Info.Amsterdam@AllenOvery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude>37.0625</Latitude>
+    <Longitude>-95.677068</Longitude>
+    <Photo>/PublishingImages/Office_OfficeImage_Amsterdam.jpg</Photo>
+    <TermStoreId>678dcc62-ad56-11e0-9a4f-56e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>691</Id>
+    <UniqueId>6adac145-81bf-4b51-9608-87a359108a33</UniqueId>
+    <CountryId>0</CountryId>
+    <LocationName>Manila</LocationName>
+    <Address1 />
+    <Address2>Manila</Address2>
+    <Address3>1226</Address3>
+    <TelephoneNumber />
+    <FaxNumber />
+    <ContactEmailAddress />
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId>6ca7487c-ad56-11e0-9e57-57e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>700</Id>
+    <UniqueId>b5b75045-ff6e-40d4-8322-5c77665c9343</UniqueId>
+    <CountryId>17</CountryId>
+    <LocationName>Warsaw</LocationName>
+    <Address1>Allen &amp; Overy, A. Pędzich sp. k.</Address1>
+    <Address2>Rondo ONZ 1</Address2>
+    <Address3>34 floor</Address3>
+    <Address4>Warsaw</Address4>
+    <Address5>00 - 124</Address5>
+    <TelephoneNumber>+48 22 820 6100</TelephoneNumber>
+    <FaxNumber>+48 22 820 6199</FaxNumber>
+    <ContactEmailAddress>infobank.warsaw@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId>6fdadc66-ad56-11e0-8fac-58e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>709</Id>
+    <UniqueId>a09aaf48-5189-42c0-b580-5c7e2c6ecdad</UniqueId>
+    <CountryId>18</CountryId>
+    <LocationName>Doha</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>23rd Floor, Tornado Tower</Address2>
+    <Address3>Al Funduq Street</Address3>
+    <Address4>West Bay</Address4>
+    <Address5>Doha</Address5>
+    <Address6>PO Box 24205</Address6>
+    <TelephoneNumber>00 974 4419 4444</TelephoneNumber>
+    <FaxNumber>00 974 4419 4599</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Doha.jpg</Photo>
+    <TermStoreId>738aa486-ad56-11e0-b8b7-68e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>718</Id>
+    <UniqueId>de30874c-fdc1-4f41-b120-8f4acb680dab</UniqueId>
+    <CountryId>19</CountryId>
+    <LocationName>Bucharest</LocationName>
+    <Address1>Charles de Gaulle Plaza, 5th floor</Address1>
+    <Address2>15 Charles de Gaulle Square</Address2>
+    <Address3>011857 Bucharest 1</Address3>
+    <Address4 />
+    <TelephoneNumber>+40 31 405 7777</TelephoneNumber>
+    <FaxNumber>+40 31 405 7778</FaxNumber>
+    <ContactEmailAddress>bucharest@rtprallenovery.com</ContactEmailAddress>
+    <Text>“Legal services are provided in Romania through Allen &amp;amp; Overy LLP’s association with Radu Tărăcilă Pădurari Retevoescu SCA , a firm of advocates registered with the Bucharest Bar by Decision 706/13.04.2010, VAT No. RO16414360, and registered office at 60 Dacia Boulevard, 020061 Bucharest 2, Romania.”</Text>
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId>76e894da-ad56-11e0-910b-6ce94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>727</Id>
+    <UniqueId>47868698-386f-48a0-873a-3451f132838e</UniqueId>
+    <CountryId>20</CountryId>
+    <LocationName>Moscow</LocationName>
+    <Address1>Allen &amp; Overy Legal Services</Address1>
+    <Address2>Dmitrovsky pereulok 9</Address2>
+    <Address3>Moscow</Address3>
+    <Address4>107031</Address4>
+    <TelephoneNumber>+7 495 725 7900</TelephoneNumber>
+    <FaxNumber>+7 495 725 7949</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId>7aa15602-ad56-11e0-ac1c-73e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>736</Id>
+    <UniqueId>0d93d001-96bb-4e58-9d6d-232800abab95</UniqueId>
+    <CountryId>21</CountryId>
+    <LocationName>Riyadh</LocationName>
+    <Address1>Zeyad S. Khoshaim Law Firm in association with Allen &amp; Overy LLP</Address1>
+    <Address2>P.O. Box 230667</Address2>
+    <Address3>Localizer Centre – Suite F6</Address3>
+    <Address4>Prince Mohammed bin AbdulAziz Road (Tahliya)</Address4>
+    <Address5>Riyadh</Address5>
+    <Address6>11321</Address6>
+    <TelephoneNumber>+966 (0) 11461 8700</TelephoneNumber>
+    <FaxNumber>+966 (0) 11461 8799</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Riyadh.jpg</Photo>
+    <TermStoreId>7e461fe0-ad56-11e0-871e-74e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>745</Id>
+    <UniqueId>8de1fdc6-80bf-4a5b-94e0-eb072f53e36f</UniqueId>
+    <CountryId>22</CountryId>
+    <LocationName>Singapore</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>50 Collyer Quay</Address2>
+    <Address3>#09-01 OUE Bayfront</Address3>
+    <Address4>Singapore</Address4>
+    <Address5>049321</Address5>
+    <TelephoneNumber>+65 6671 6000</TelephoneNumber>
+    <FaxNumber>+65 6671 6499</FaxNumber>
+    <ContactEmailAddress>SN_Enquiries@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Singapore.jpg</Photo>
+    <TermStoreId>822aaff4-ad56-11e0-9d6b-75e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>755</Id>
+    <UniqueId>261140ec-6dfd-4c6d-aff8-14c4cbe67a8a</UniqueId>
+    <CountryId>23</CountryId>
+    <LocationName>Bratislava</LocationName>
+    <Address1>Allen &amp; Overy Bratislava, s.r.o.</Address1>
+    <Address2>Eurovea Central 1</Address2>
+    <Address3>Pribinova 4</Address3>
+    <Address4>Bratislava</Address4>
+    <Address5>81109</Address5>
+    <TelephoneNumber>+421 2 5920 2400</TelephoneNumber>
+    <FaxNumber>+421 2 5920 2424</FaxNumber>
+    <ContactEmailAddress>infobank.bratislava@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Bratislava.jpg</Photo>
+    <TermStoreId>8516f236-ad56-11e0-b06c-76e94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>764</Id>
+    <UniqueId>4d17c494-59c6-4094-8d43-c1e07f19ce4e</UniqueId>
+    <CountryId>25</CountryId>
+    <LocationName>Bangkok</LocationName>
+    <Address1>Allen &amp; Overy (Thailand) Co., Ltd.</Address1>
+    <Address2>22nd Floor, Sindhorn Tower III</Address2>
+    <Address3>130-132 Wireless Road</Address3>
+    <Address4>Lumpini, Pathumwan</Address4>
+    <Address5>Bangkok</Address5>
+    <Address6>10330</Address6>
+    <TelephoneNumber>+66 2 263 7600</TelephoneNumber>
+    <FaxNumber>+66 2 263 7699</FaxNumber>
+    <ContactEmailAddress>bn_enquiries@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Bangkok.jpg</Photo>
+    <TermStoreId>8860f91e-ad56-11e0-ae9f-7ce94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>773</Id>
+    <UniqueId>1b2692ac-fe94-4215-8d3a-51747bff39f9</UniqueId>
+    <CountryId>28</CountryId>
+    <LocationName>New York</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>1221 Avenue of the Americas</Address2>
+    <Address3>New York</Address3>
+    <Address4>NY 10020</Address4>
+    <TelephoneNumber>+1 212 610 6300</TelephoneNumber>
+    <FaxNumber>+1 212 610 6399</FaxNumber>
+    <ContactEmailAddress>allenoveryus@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_NewYork.jpg</Photo>
+    <TermStoreId>8c8065e8-ad56-11e0-a68a-7de94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>782</Id>
+    <UniqueId>f9ec1fdf-5f2b-473c-bbe9-cfafa0cf791a</UniqueId>
+    <CountryId>28</CountryId>
+    <LocationName>Washington, D.C</LocationName>
+    <Address1>Allen &amp; Overy LLP</Address1>
+    <Address2>1101 New York Avenue</Address2>
+    <Address3>Washington, D.C</Address3>
+    <Address4>20005</Address4>
+    <TelephoneNumber>202 683 3800</TelephoneNumber>
+    <FaxNumber>202 683 3999</FaxNumber>
+    <ContactEmailAddress>allenoveryus@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Washington,D.C.jpg</Photo>
+    <TermStoreId>94350f5a-ad56-11e0-aac5-7fe94724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>865</Id>
+    <UniqueId>a6624ae4-1bad-476d-b4a8-4ddf17cd26c3</UniqueId>
+    <CountryId>29</CountryId>
+    <LocationName>Istanbul</LocationName>
+    <Address1>Allen &amp; Overy Danışmanlık Hizmetleri Avukatlık Ortaklığı</Address1>
+    <Address2>Büyükdere Cad. No:185</Address2>
+    <Address3>Kanyon Ofis Binası, Kat:6, Ofis No: 1024-1027</Address3>
+    <Address4>Levent/ Sisli, 34394 Istanbul</Address4>
+    <Address5>Istanbul</Address5>
+    <Address6>34394</Address6>
+    <TelephoneNumber>+ 90 212 371 2900</TelephoneNumber>
+    <FaxNumber>+ 90 212 3718598</FaxNumber>
+    <ContactEmailAddress>Info-TR@AllenOvery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Istanbul.jpg</Photo>
+    <TermStoreId>c00cb2e2-ecdc-4bb3-b2eb-811b36dbc2aa</TermStoreId>
+  </Office>
+  <Office>
+    <Id>866</Id>
+    <UniqueId>dcbe2a56-54e9-4c0f-8bb6-e1bc4fcfb80a</UniqueId>
+    <CountryId>3</CountryId>
+    <LocationName>São Paulo</LocationName>
+    <Address1>Allen &amp; Overy LLP - Consultores em Direito</Address1>
+    <Address2>Estrangeiro / Direito Norte-Americano</Address2>
+    <Address3>Rua das Olimpíadas, 100 - 10ºandar</Address3>
+    <Address4>Vila Olímpia</Address4>
+    <Address5>São Paulo</Address5>
+    <Address6>CEP 04551-000</Address6>
+    <TelephoneNumber>+55 11 3848 8750</TelephoneNumber>
+    <FaxNumber>+55 11 3049 8048</FaxNumber>
+    <ContactEmailAddress>information@allenovery.com</ContactEmailAddress>
+    <Text>Please see Marketing Database / Services / Locations</Text>
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_SãoPaulo.jpg</Photo>
+    <TermStoreId>ddcdfb96-ad55-11e0-a548-30e84724019b</TermStoreId>
+  </Office>
+  <Office>
+    <Id>943</Id>
+    <UniqueId>d7da660f-0167-4eb5-ab22-5b9d73da081c</UniqueId>
+    <CountryId>30</CountryId>
+    <LocationName>Hanoi</LocationName>
+    <Address1>5th Floor, Pacific Place</Address1>
+    <Address2>83B Ly Thuong Kiet</Address2>
+    <Address3>Hoan Kiem District</Address3>
+    <Address4>Hanoi</Address4>
+    <TelephoneNumber>+84 4 6270 5388</TelephoneNumber>
+    <FaxNumber>+84 4 6270 5399</FaxNumber>
+    <ContactEmailAddress>VN_Enquiries@allenovery.com</ContactEmailAddress>
+    <Text />
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_Hanoi.jpg</Photo>
+    <TermStoreId>ac2303a4-11e9-423c-a8d5-426c13361c9e</TermStoreId>
+  </Office>
+  <Office>
+    <Id>944</Id>
+    <UniqueId>fe017ebd-fe47-4669-b7a1-0a03b36945fe</UniqueId>
+    <CountryId>30</CountryId>
+    <LocationName>Ho Chi Minh City</LocationName>
+    <Address1>39th Floor, Bitexco Financial Tower</Address1>
+    <Address2>2 Hai Trieu</Address2>
+    <Address3>District 1</Address3>
+    <Address4>Ho Chi Minh City</Address4>
+    <TelephoneNumber>+84 8 6288 4888</TelephoneNumber>
+    <FaxNumber>+84 8 6288 4999</FaxNumber>
+    <ContactEmailAddress>VN_enquiries@allenovery.com</ContactEmailAddress>
+    <Text />
+    <Latitude />
+    <Longitude />
+    <Photo>/PublishingImages/Office_OfficeImage_HoChiMinhCity.jpg</Photo>
+    <TermStoreId>9f5535fe-15fa-4cb7-b9ed-344580a433d1</TermStoreId>
+  </Office>
+  <Office>
+    <Id>964</Id>
+    <UniqueId>98c51213-6be2-47f7-adcb-f4d87fe7feab</UniqueId>
+    <CountryId>0</CountryId>
+    <LocationName>Yangon</LocationName>
+    <Address1>Allen &amp; Overy Limited</Address1>
+    <Address2>Suite 539/540 Inya Lake Hotel</Address2>
+    <Address3>37 Kaba Aye Pagoda Road</Address3>
+    <Address4>Mayangone Township</Address4>
+    <Address5>Yangon</Address5>
+    <Address6>11061</Address6>
+    <TelephoneNumber>+95 01 441 3111</TelephoneNumber>
+    <FaxNumber>+95 01 966 5964</FaxNumber>
+    <ContactEmailAddress />
+    <Text />
+    <Latitude />
+    <Longitude />
+    <Photo />
+    <TermStoreId />
+  </Office>
+</ArrayOfOffice>
