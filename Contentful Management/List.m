@@ -10,6 +10,6 @@
 
 @implementation List : NSObject
 
-@synthesize CountryName, Text, Id, UniqueId, CountryPageUniqueId, TermStoreId, CountryId, LocationName, Address1, Address2, Address3, Address4, Address5, Address6,TelephoneNumber, FaxNumber, ContactEmailAddress, Latitude, Longitude, Photo;
+@synthesize CountryName, Text, Id, UniqueId, CountryPageUniqueId, TermStoreId, CountryId, LocationName, Address1, Address2, Address3, Address4, Address5, Address6,TelephoneNumber, FaxNumber, ContactEmailAddress, Latitude, Longitude, Photo, OfficeId, Practices, FirstName, Surname, EmailAddress, JobRole, DefaultBio, LanguagesSpoken, Experience, DateJoined, MetaDescription, Publications, LastUpdated;
 
 @end

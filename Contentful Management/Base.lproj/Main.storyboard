@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2TZ-mH-KSs">
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2TZ-mH-KSs">
                                 <rect key="frame" x="248" y="285" width="87" height="30"/>
                                 <state key="normal" title="Load Offices">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
@@ -32,6 +32,60 @@
                                 </state>
                                 <connections>
                                     <action selector="loadAsset:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bbG-kW-CT9"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G96-A1-EfC">
+                                <rect key="frame" x="248" y="366" width="105" height="30"/>
+                                <state key="normal" title="Load the Users">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="loadTheUsers:" destination="BYZ-38-t0r" eventType="touchUpInside" id="alO-ux-Hbk"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mw1-rC-nOl">
+                                <rect key="frame" x="248" y="404" width="130" height="30"/>
+                                <state key="normal" title="Delete all Contacts">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="deleteAllContacts:" destination="BYZ-38-t0r" eventType="touchUpInside" id="w89-aQ-A0h"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="v97-vK-LA6">
+                                <rect key="frame" x="248" y="442" width="137" height="30"/>
+                                <state key="normal" title="Publish all Contacts">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="publishAllContacts:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xpM-vv-T4r"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pl0-ta-2CA">
+                                <rect key="frame" x="248" y="472" width="178" height="30"/>
+                                <state key="normal" title="Add image to all Contacts">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="addImageToAllContacts:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ouF-kN-P2x"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gax-xo-NC4">
+                                <rect key="frame" x="248" y="510" width="206" height="30"/>
+                                <state key="normal" title="Load a Contact with an Image">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="loadAContactWithAnImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lhP-yN-z5T"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="avt-Rj-ARB">
+                                <rect key="frame" x="248" y="536" width="242" height="30"/>
+                                <state key="normal" title="Load Contacts onto Contacts Page">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="loadContactsOntoContactsPage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rJK-RS-ONQ"/>
                                 </connections>
                             </button>
                         </subviews>

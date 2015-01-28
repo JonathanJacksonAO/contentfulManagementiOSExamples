@@ -20,7 +20,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    NSString *path = [[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:@"Office.xml"];
+    NSString *path = [[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:@"Person.xml"];
     NSData *data = [[NSData alloc]initWithContentsOfFile:path];
     NSXMLParser *xmlParser = [[NSXMLParser alloc]initWithData:data];
     

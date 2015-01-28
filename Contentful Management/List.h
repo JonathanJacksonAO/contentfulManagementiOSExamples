@@ -30,5 +30,18 @@
 @property (nonatomic, retain) NSString *Photo;
 @property (nonatomic, retain) NSString *CountryPageUniqueId;
 @property (nonatomic, retain) NSString *TermStoreId;
+@property (nonatomic, retain) NSString *OfficeId;
+@property (nonatomic, retain) NSString *Practices;
+@property (nonatomic, retain) NSString *FirstName;
+@property (nonatomic, retain) NSString *Surname;
+@property (nonatomic, retain) NSString *EmailAddress;
+@property (nonatomic, retain) NSString *JobRole;
+@property (nonatomic, retain) NSString *DefaultBio;
+@property (nonatomic, retain) NSString *LanguagesSpoken;
+@property (nonatomic, retain) NSString *Experience;
+@property (nonatomic, retain) NSString *DateJoined;
+@property (nonatomic, retain) NSString *MetaDescription;
+@property (nonatomic, retain) NSString *Publications;
+@property (nonatomic, retain) NSString *LastUpdated;
 
 @end
